@@ -1,0 +1,2 @@
+# staticarea
+Bitrix component
