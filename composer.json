@@ -1,0 +1,17 @@
+{
+    "name": "1gt/staticarea",
+    "description": "Bitrix component",
+    "keywords": ["bitrix", "staticarea", "component"],
+    "type": "bitrix-d7-component",
+    "authors": [
+        {
+            "name": "Sergey Balasov",
+            "email": "sbalasov@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3",
+        "composer/installers": "~1"
+    }
+}
