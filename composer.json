@@ -9,6 +9,11 @@
             "email": "sbalasov@gmail.com"
         }
     ],
+    "support": {
+        "email": "sbalasov@gmail.com",
+        "issues": "https://github.com/1gt/staticarea/issues",
+        "source": "https://github.com/1gt/staticarea"
+    },
     "license": "MIT",
     "require": {
         "php": ">=5.3",
